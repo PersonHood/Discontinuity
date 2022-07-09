@@ -22,3 +22,5 @@ Are they the same?
 Is Gödel's 2nd incompleteness 
 theorem a factor, that a system cannot 
 show its own consistency?
+
+
