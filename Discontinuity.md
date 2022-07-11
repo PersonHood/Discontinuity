@@ -37,11 +37,11 @@ Imagine a set of tangent curves
 - Elongated / flattened 'S' shaped
 - Asymptotic boundaries and an inflection point in the middle
 - Fuzzy conditions near non-overlapping non-touching boundaries
-- No continuous transition from curve to curve
+- No continuous transition from curve to curve, vs a sine wave
 
 ## Interpretation
 
-'1. We are at home in [F]
+'1. We are at home in [F] epistemology
 - We are able to postulate and study [A] - [F]
 - Presume [F] relies on language and math
 - Presume that non-humans remain in [C] - [E]
