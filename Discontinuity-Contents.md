@@ -1,6 +1,6 @@
-# Conundrum
+## Discontinuity
 
-## Emergent Realms
+### Emergent Realms
 
 0. Origin
 1. Physics
@@ -12,6 +12,6 @@
 7. Ontology
 8. End
 
-## Tangent Curve
+### Tangent Curve
 
-## Interpretation
+### Interpretation
