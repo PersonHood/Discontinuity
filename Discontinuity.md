@@ -1,12 +1,18 @@
-# Conundrum
+## Discontinuity
 
-## Emergent Realms
+### Emergent Realms
 
-X` - unknowable
+Given nine successively emergent realms, each distinct from the prior and next realm.
+
+Within any realm is it possible to necessarily project the next realm based on conditions in the present realm?
+
+The realms are labeled as follows:
+
+X' - unknowable
 - before the start-of-time
 
 A - Physics
-- mass and energy, time = 0 plus a bit
+- mass & energy, time = 0 + a bit
 
 B - Chemistry
 - primarily molecules
@@ -15,50 +21,53 @@ C - Biology
 - primarily reproducing
 
 D - Psychology
-- discerning, consciousness
+- primarily discerning, consciousness
 
 E - Sociology
-- communing, self-consciousness
+- primarily communing, self-consciousness
 
 F - Epistemology
-- knowing, meta-consciousness
+- primarily knowing, meta-consciousness
 
 G - Ontology
-- being, silenced-consciousness
+- primarily being, silenced-consciousness
 
-X`` - unknowable
-- after the end-of-time
+X'' - unknowable
+- after the end-of-time?
 
-## Tangent Curve
+### Nine Tangent Curves
 
-Imagine a set of tangent curves 
+Imagine a set of tangent curves:
 
-- side-by-side
-- Elongated / flattened 'S' shaped
-- Asymptotic boundaries and an inflection point in the middle
-- Fuzzy conditions near non-overlapping non-touching boundaries
-- No continuous transition from curve to curve, vs a sine wave
+- Side-by-side
+- Elongated and flattened 'S' shapes
+- Asymptotic boundaries
+   - non-overlapping boundaries
+   - non-touching boundaries
+- Discontinuous curve-to-curve transitions
+- An inflection point mid-curve
 
-## Interpretation
+### An Interpretation
 
 '1. We are at home in [F] epistemology
 - We are able to postulate and study [A] - [F]
 - Presume [F] relies on language and math
-- Presume that non-humans remain in [C] - [E]
+- Presume that most animals remain in [C] - [E]
 
 '2. Through meditation many experience [G]
 - We return to [F] to convey the essence of [G]
 
-'3. We propose a new emergent realm [X``]
-- We speculate about the essence of [X``]
-- We speculate about the essence of [X`]
+'3. We propose a new emergent realm [X'']
+- We speculate about the essence of [X'']
+- We speculate about the essence of [X']
 - Both are unknowable
 
-'4. Are [X`] and [X``] the same?
+'4. Are [X'] and [X''] the same?
 
 '5. How are emergent realms related?
-- along a circle, or
-- along a line
+- along a line, or
+- along a circle
 
 '6. Are the gaps between boundaries real?
+- Are the gaps an artifact of linguistic limitations?
 - Is Gödel's 2nd theorem a factor?
