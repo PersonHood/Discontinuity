@@ -1,22 +1,31 @@
 # Discontinuity
 
 Discontinuous yet emergent 
-realms of study:
+realms:
 
-0. Origin
-1. Physics
-2. Chemistry
-3. Biology
-4. Psychology
-5. Sociology
-6. Epistemology
-7. Ontology
-8. Beyond
+X' - unknowable
+
+A - Physics
+
+B - Chemistry
+
+C - Biology
+
+D - Psychology
+
+E - Sociology
+
+F - Epistemology
+
+G - Ontology
+
+X'' - unknowable
 
 Are these effectively mapped along 
 a line or a circle? 
 
-'0' and '8' are unknowable. 
+The 1st and 9th are unknowable. 
+
 Are they the same?
 
 Is Gödel's 2nd incompleteness 
