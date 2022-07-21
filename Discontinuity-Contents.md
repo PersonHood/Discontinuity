@@ -1,17 +1,26 @@
 ## Discontinuity
 
-### Emergent Realms
+Discontinuous yet emergent 
+realms:
 
-0. Origin
-1. Physics
-2. Chemistry
-3. Biology
-4. Psychology
-5. Sociology
-6. Epistemology
-7. Ontology
-8. End
+X' - unknowable
 
-### Tangent Curve
+A - Physics
 
-### Interpretation
+B - Chemistry
+
+C - Biology
+
+D - Psychology
+
+E - Sociology
+
+F - Epistemology
+
+G - Ontology
+
+X'' - unknowable
+
+### Tangent Curves
+
+### An Interpretation
