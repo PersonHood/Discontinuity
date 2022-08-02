@@ -1,5 +1,7 @@
 # Discontinuity
 
+Download the latest `Release` zip file.
+
 Discontinuous yet emergent 
 realms:
 
