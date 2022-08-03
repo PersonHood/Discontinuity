@@ -2,7 +2,7 @@
 
 Download the latest `Release`.
 
-[zip](   )
+>[zip](https://github.com/PersonHood/Discontinuity/archive/refs/tags/v2.0.zip)
 
 Discontinuous yet emergent 
 realms:
