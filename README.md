@@ -1,13 +1,13 @@
 # Discontinuity
 
-Download the latest `Release`.
-
->[zip](https://github.com/PersonHood/Discontinuity/archive/refs/tags/v2.1.zip)
+Discontinuous yet emergent 
+realms.
 
 > `µDISC`
 
-Discontinuous yet emergent 
-realms:
+Download the latest `Release`.
+
+>[zip](https://github.com/PersonHood/Discontinuity/archive/refs/tags/v2.1.zip)
 
 X' - unknowable
 
