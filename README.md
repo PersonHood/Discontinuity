@@ -7,7 +7,7 @@ realms.
 
 Download the latest `Release`.
 
->[zip](https://github.com/PersonHood/Discontinuity/archive/refs/tags/v2.1.zip)
+>[zip](https://github.com/PersonHood/Discontinuity/archive/refs/tags/v2.3.zip)
 
 X' - unknowable
 
