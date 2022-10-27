@@ -1,0 +1,44 @@
+a:link { color: white; } /* all headers are md links */
+a:link { background-color: darkgray; }
+body { font-size: 1.15rem; }
+body { font-family: serif, times roman; } 
+body { background-color: lightgray; }
+h1 { font-size: 2.75rem; }
+h1 { font-family: arial; } 
+h1 { line-height: 1.5em; }
+h1 { font-variant: small-caps; }
+h1 { border-left: 1px solid blue; }
+h1 { letter-spacing: 2px; }
+h1 { background-color: darkgray; }
+h1 { color: white; }
+h1 { text-align: right; }
+
+h2 { font-size: 2.25rem; }
+h2 { font-family: arial; } 
+h2 { line-height: 1.5em; }
+h2 { font-variant: small-caps; }
+h2 { border-left: 1px solid blue; }
+h2 { letter-spacing: 2px; }
+h2 { background-color: darkgray; }
+h2 { color: white; }
+h2 { text-align: right; }
+
+h3 { font-size: 1.75rem; }
+h3 { font-family: arial; } 
+h3 { line-height: 1.5em; }
+h3 { font-variant: small-caps; }
+h3 { border-left: 1px solid blue; }
+h3 { letter-spacing: 2px; }
+h3 { background-color: darkgray; }
+h3 { color: white; }
+h3 { text-align: right; }
+
+h4 { font-size: 1.25rem; }
+h4 { font-family: arial; } 
+h4 { line-height: 1.5em; }
+h4 { font-variant: small-caps; }
+h4 { border-left: 1px solid blue; }
+h4 { letter-spacing: 2px; }
+h4 { background-color: darkgray; }
+h4 { color: white; }
+h4 { text-align: right; }
